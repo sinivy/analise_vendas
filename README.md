@@ -12,7 +12,7 @@ O objetivo é aplicar conceitos de modelagem de dados, SQL e análise para gerar
 
 * SQL (MySQL)
 * Modelagem de Dados Relacional
-* Power BI (para visualização - em desenvolvimento)
+* Looker Studio (para visualização - em desenvolvimento)
 * Git e GitHub
 
 ---
@@ -60,4 +60,7 @@ O banco foi modelado utilizando conceitos de normalização e integridade refere
 ## Objetivo Profissional
 
 Este projeto faz parte do meu portfólio com foco em oportunidades na área de Dados, especialmente em análise e modelagem de dados.
+
+```md
+![Exemplo de Dashboard](/Imagem colada.png)
 
