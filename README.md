@@ -61,6 +61,6 @@ O banco foi modelado utilizando conceitos de normalização e integridade refere
 
 Este projeto faz parte do meu portfólio com foco em oportunidades na área de Dados, especialmente em análise e modelagem de dados.
 
-```md
+
 ![Exemplo de Dashboard](/Imagem colada.png)
 
